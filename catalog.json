@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T21:00:00Z",
+  "updatedAt": "2026-10-31T22:45:00Z",
   "watches": [
     {
       "id": 0,
@@ -134,6 +134,34 @@
       "isFree": false,
       "priceDisplay": "$1.99",
       "packageId": "io.solidcrafts.watchgrid.celestial"
+    },
+    {
+      "id": 5,
+      "configId": "lune",
+      "brand": "WATCHGRID",
+      "modelName": "Perpetual Lune",
+      "subtitle": "Haute Horlogerie Grande Lune",
+      "description": "Inspired by British-Swiss haute horlogerie moonphase mastery. Features a smoky Obsidian Mother-of-Pearl dial (plus Ivory Opaline with Royal Blue flinqué guilloché, Royal Sapphire, and Imperial Emerald themes), a sweeping panoramic crescent aperture framed in 18k rose gold, a giant hand-engraved 3D golden moon with Ursa Major & Polaris constellations, 3D faceted rose-gold wedge markers, and tapered lancine sword hands.",
+      "caseDiameter": "41.5 mm",
+      "bezel": "Stepped 18k rose-gold & polished 316L steel case",
+      "crystal": "Domed bevelled sapphire crystal with dual AR coating",
+      "waterResistance": "30 meters / 100 feet",
+      "movement": "In-House Perpetual Lune Calibre (90-hour power reserve)",
+      "lume": "18k rose-gold sculpted lunar disc & faceted indices",
+      "dialUrl": "watches/lune/dial.png",
+      "hourHandUrl": "watches/lune/hour.png",
+      "minuteHandUrl": "watches/lune/minute.png",
+      "secondHandUrl": "watches/lune/second.png",
+      "centerCapUrl": "watches/lune/center_cap.png",
+      "hourGeometry": { "x": 210.0, "y": 58.0, "width": 46.0, "height": 220.0, "pivotX": 0.5, "pivotY": 0.7955 },
+      "minuteGeometry": { "x": 215.0, "y": 8.0, "width": 36.0, "height": 260.0, "pivotX": 0.5, "pivotY": 0.8654 },
+      "secondGeometry": { "x": 221.0, "y": -2.0, "width": 24.0, "height": 280.0, "pivotX": 0.5, "pivotY": 0.8393 },
+      "dateWindow": null,
+      "secondHandTintHex": null,
+      "hasCelestialMoonphase": false,
+      "isFree": false,
+      "priceDisplay": "$1.99",
+      "packageId": "io.solidcrafts.watchgrid.lune"
     }
   ]
 }

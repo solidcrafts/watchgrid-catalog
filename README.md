@@ -17,12 +17,12 @@
 
 ### ✨ Explore the Collection
 
-| [**Heritage Diver 300**](#1-heritage-diver-300-included-free) | [**Cosmic Chrono**](#2-cosmic-chrono) | [**Geneva Classic**](#3-geneva-classic) | [**Celestial Moonphase**](#4-celestial-moonphase) |
-| :---: | :---: | :---: | :---: |
-| <a href="#1-heritage-diver-300-included-free"><img src="showcase/submariner_icon.png" width="150" /></a> | <a href="#2-cosmic-chrono"><img src="showcase/speedmaster_icon.png" width="150" /></a> | <a href="#3-geneva-classic"><img src="showcase/constant_icon.png" width="150" /></a> | <a href="#4-celestial-moonphase"><img src="showcase/celestial_icon.png" width="150" /></a> |
-| `Automatic Diver` | `Space Chronograph` | `Swiss Dress` | `Astronomical Moon` |
-| ![FREE](https://img.shields.io/badge/INCLUDED_FREE-00E676?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.99](https://img.shields.io/badge/$1.99-D4AF37?style=flat-square&logoColor=black) |
-| [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.chrono) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.classic) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.celestial) |
+| [**Heritage Diver 300**](#1-heritage-diver-300-included-free) | [**Cosmic Chrono**](#2-cosmic-chrono) | [**Geneva Classic**](#3-geneva-classic) | [**Celestial Moonphase**](#4-celestial-moonphase) | [**Perpetual Lune**](#5-perpetual-lune) |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="#1-heritage-diver-300-included-free"><img src="showcase/submariner_icon.png" width="130" /></a> | <a href="#2-cosmic-chrono"><img src="showcase/speedmaster_icon.png" width="130" /></a> | <a href="#3-geneva-classic"><img src="showcase/constant_icon.png" width="130" /></a> | <a href="#4-celestial-moonphase"><img src="showcase/celestial_icon.png" width="130" /></a> | <a href="#5-perpetual-lune"><img src="showcase/lune_icon.png" width="130" /></a> |
+| `Automatic Diver` | `Space Chronograph` | `Swiss Dress` | `Astronomical Moon` | `Grande Lune Nacre` |
+| ![FREE](https://img.shields.io/badge/INCLUDED_FREE-00E676?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.99](https://img.shields.io/badge/$1.99-D4AF37?style=flat-square&logoColor=black) | ![$1.99](https://img.shields.io/badge/$1.99-D4AF37?style=flat-square&logoColor=black) |
+| [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.chrono) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.classic) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.celestial) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.lune) |
 
 </div>
 
@@ -162,6 +162,41 @@
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.celestial">
           <img src="https://img.shields.io/badge/Get_on_Google_Play_($1.99)-D4AF37?style=for-the-badge&logo=google-play&logoColor=black" alt="Get Celestial Moonphase on Google Play" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 5. Perpetual Lune
+
+> **Haute Horlogerie Grande Lune · $1.99**  
+> Inspired by British-Swiss haute horlogerie moonphase mastery. Features a smoky Obsidian Mother-of-Pearl dial (plus Ivory Opaline with Royal Blue flinqué wavy guilloché, Royal Sapphire Nacre, and Imperial Emerald Nacre themes), a sweeping panoramic crescent aperture framed in 18k rose gold, a giant hand-engraved 3D golden moon with Ursa Major & Polaris constellations, 3D faceted rose-gold wedge markers, and tapered lancine sword hands.
+
+<table>
+  <tr>
+    <td align="center" width="28%">
+      <img src="showcase/lune_active.png" width="210" alt="Perpetual Lune Obsidian Nacre" /><br />
+      <sub><b>Obsidian Mother-of-Pearl</b></sub>
+    </td>
+    <td align="center" width="28%">
+      <img src="showcase/lune_ivory.png" width="210" alt="Perpetual Lune Ivory Opaline" /><br />
+      <sub><b>Ivory Opaline &amp; Blue Guilloché</b></sub>
+    </td>
+    <td width="44%">
+      <ul>
+        <li><b>Case Diameter:</b> 41.5 mm</li>
+        <li><b>Complications:</b> Panoramic Grande Lune + Live 8-Phase Astronomical Cycle</li>
+        <li><b>Dial Themes:</b> Obsidian Mother-of-Pearl, Ivory Opaline, Royal Sapphire, Imperial Emerald</li>
+        <li><b>Crystal:</b> Domed bevelled sapphire crystal with dual AR coating</li>
+        <li><b>Movement:</b> In-House Perpetual Lune Calibre (90-hour power reserve)</li>
+        <li><b>Hands &amp; Indices:</b> 18k Rose Gold faceted wedge markers &amp; lancine sword hands</li>
+      </ul>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.lune">
+          <img src="https://img.shields.io/badge/Get_on_Google_Play_($1.99)-D4AF37?style=for-the-badge&logo=google-play&logoColor=black" alt="Get Perpetual Lune on Google Play" />
         </a>
       </p>
     </td>
