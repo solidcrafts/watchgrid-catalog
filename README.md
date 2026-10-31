@@ -17,12 +17,12 @@
 
 ### ✨ Explore the Collection
 
-| [**Heritage Diver 300**](#1-heritage-diver-300-included-free) | [**Cosmic Chrono**](#2-cosmic-chrono) | [**Geneva Classic**](#3-geneva-classic) | [**Classique Royale**](#4-classique-royale) | [**Celestial Moonphase**](#5-celestial-moonphase) |
-| :---: | :---: | :---: | :---: | :---: |
-| <a href="#1-heritage-diver-300-included-free"><img src="showcase/submariner_icon.png" width="140" /></a> | <a href="#2-cosmic-chrono"><img src="showcase/speedmaster_icon.png" width="140" /></a> | <a href="#3-geneva-classic"><img src="showcase/constant_icon.png" width="140" /></a> | <a href="#4-classique-royale"><img src="showcase/royale_icon.png" width="140" /></a> | <a href="#5-celestial-moonphase"><img src="showcase/celestial_icon.png" width="140" /></a> |
-| `Automatic Diver` | `Space Chronograph` | `Swiss Dress` | `Roman Guilloché` | `Astronomical Moon` |
-| ![FREE](https://img.shields.io/badge/INCLUDED_FREE-00E676?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.99](https://img.shields.io/badge/$1.99-D4AF37?style=flat-square&logoColor=black) |
-| [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.chrono) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.classic) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.royale) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.celestial) |
+| [**Heritage Diver 300**](#1-heritage-diver-300-included-free) | [**Cosmic Chrono**](#2-cosmic-chrono) | [**Geneva Classic**](#3-geneva-classic) | [**Celestial Moonphase**](#4-celestial-moonphase) |
+| :---: | :---: | :---: | :---: |
+| <a href="#1-heritage-diver-300-included-free"><img src="showcase/submariner_icon.png" width="150" /></a> | <a href="#2-cosmic-chrono"><img src="showcase/speedmaster_icon.png" width="150" /></a> | <a href="#3-geneva-classic"><img src="showcase/constant_icon.png" width="150" /></a> | <a href="#4-celestial-moonphase"><img src="showcase/celestial_icon.png" width="150" /></a> |
+| `Automatic Diver` | `Space Chronograph` | `Swiss Dress` | `Astronomical Moon` |
+| ![FREE](https://img.shields.io/badge/INCLUDED_FREE-00E676?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.49](https://img.shields.io/badge/$1.49-D4AF37?style=flat-square&logoColor=black) | ![$1.99](https://img.shields.io/badge/$1.99-D4AF37?style=flat-square&logoColor=black) |
+| [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.chrono) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.classic) | [**Get on Google Play ↗**](https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.celestial) |
 
 </div>
 
@@ -135,42 +135,7 @@
 
 ---
 
-### 4. Classique Royale
-
-> **Roman Guilloché Automatic · $1.49**  
-> Master-crafted traditional haute horlogerie. Features a deep obsidian *Clous de Paris* pyramid guilloché dial, brushed silver chapter ring with radial Roman numerals (including the traditional watchmaker's `IIII`), open-tipped Breguet pomme hands, and dual railway minute tracks.
-
-<table>
-  <tr>
-    <td align="center" width="28%">
-      <img src="showcase/royale_active.png" width="210" alt="Classique Royale Active" /><br />
-      <sub><b>Active Clous de Paris Dial</b></sub>
-    </td>
-    <td align="center" width="28%">
-      <img src="showcase/royale_ambient.png" width="210" alt="Classique Royale Ambient" /><br />
-      <sub><b>Ambient Night Lume</b></sub>
-    </td>
-    <td width="44%">
-      <ul>
-        <li><b>Case Diameter:</b> 40 mm</li>
-        <li><b>Bezel:</b> Polished 316L stainless steel step bezel</li>
-        <li><b>Crystal:</b> Convex scratch-resistant sapphire crystal</li>
-        <li><b>Water Resistance:</b> 50 meters / 165 feet</li>
-        <li><b>Movement:</b> High-Beat Automatic Calibre (28,800 vph)</li>
-        <li><b>Hands & Dial:</b> Breguet hands in Rhodium, 18k Gold, Rose Gold & Blued Steel</li>
-      </ul>
-      <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=io.solidcrafts.watchgrid.royale">
-          <img src="https://img.shields.io/badge/Get_on_Google_Play_($1.49)-D4AF37?style=for-the-badge&logo=google-play&logoColor=black" alt="Get Classique Royale on Google Play" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 5. Celestial Moonphase
+### 4. Celestial Moonphase
 
 > **Day-Date Moonphase Automatic · $1.99**  
 > Grand astronomical complications meet contemporary Swiss elegance. Features 4 sunburst dégradé dial themes (Onyx Black, Sapphire Blue, Emerald Green, and Sunburst Silver), a 12 o'clock day-of-week pointer subdial, a 6 o'clock date pointer subdial framing a **live 8-phase astronomical moonphase** synchronized to the real lunar cycle, and 3D faceted alpha hands.
