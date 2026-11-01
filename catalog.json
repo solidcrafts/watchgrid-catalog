@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-31T23:46:00Z",
+  "version": 2,
+  "updatedAt": "2026-11-01T12:08:00Z",
   "watches": [
     {
       "id": 0,
@@ -156,7 +156,7 @@
       "hourGeometry": { "x": 210.0, "y": 58.0, "width": 46.0, "height": 220.0, "pivotX": 0.5, "pivotY": 0.7955 },
       "minuteGeometry": { "x": 215.0, "y": 8.0, "width": 36.0, "height": 260.0, "pivotX": 0.5, "pivotY": 0.8654 },
       "secondGeometry": { "x": 221.0, "y": -2.0, "width": 24.0, "height": 280.0, "pivotX": 0.5, "pivotY": 0.8393 },
-      "dateWindow": { "x": 213.0, "y": 360.0, "width": 40.0, "height": 30.0, "fontSize": 19.0, "textColorHex": "#F2F4F8" },
+      "dateWindow": { "x": 213.0, "y": 361.0, "width": 40.0, "height": 30.0, "fontSize": 18.0, "textColorHex": "#F2F4F8" },
       "secondHandTintHex": null,
       "hasCelestialMoonphase": false,
       "isFree": false,
