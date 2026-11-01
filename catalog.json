@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-11-01T12:32:00Z",
+  "version": 4,
+  "updatedAt": "2026-11-01T12:44:00Z",
   "watches": [
     {
       "id": 0,
@@ -138,6 +138,12 @@
       "isFree": false,
       "priceDisplay": "$1.99",
       "tags": [],
+      "dialThemes": [
+        { "id": "onyx", "name": "Onyx Black", "colorHex": "#181A20", "dialUrl": "watches/celestial/dial.png" },
+        { "id": "sapphire", "name": "Sapphire Blue", "colorHex": "#153E75", "dialUrl": "watches/celestial/dial_sapphire.png" },
+        { "id": "emerald", "name": "Emerald Green", "colorHex": "#124B36", "dialUrl": "watches/celestial/dial_emerald.png" },
+        { "id": "silver", "name": "Sunburst Silver", "colorHex": "#C8CFD8", "dialUrl": "watches/celestial/dial_silver.png" }
+      ],
       "packageId": "io.solidcrafts.watchgrid.celestial"
     },
     {
@@ -167,6 +173,12 @@
       "isFree": false,
       "priceDisplay": "$1.99",
       "tags": ["NEW"],
+      "dialThemes": [
+        { "id": "obsidian", "name": "Obsidian", "colorHex": "#181B22" },
+        { "id": "ivory", "name": "Ivory & Blue", "colorHex": "#E8E1D3", "accentColorHex": "#143E82" },
+        { "id": "sapphire", "name": "Sapphire", "colorHex": "#123466" },
+        { "id": "emerald", "name": "Emerald", "colorHex": "#114630" }
+      ],
       "packageId": "io.solidcrafts.watchgrid.lune"
     }
   ]
