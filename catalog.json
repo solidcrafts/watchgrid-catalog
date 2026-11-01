@@ -26,6 +26,7 @@
       "dateWindow": { "x": 381.0, "y": 214.0, "width": 48.0, "height": 38.0, "fontSize": 26.0, "textColorHex": "#000000" },
       "isFree": true,
       "priceDisplay": "FREE",
+      "tags": [],
       "packageId": "io.solidcrafts.watchgrid"
     },
     {
@@ -52,6 +53,7 @@
       "dateWindow": { "x": 351.0, "y": 214.0, "width": 48.0, "height": 38.0, "fontSize": 26.0, "textColorHex": "#000000" },
       "isFree": false,
       "priceDisplay": "$1.49",
+      "tags": [],
       "packageId": "io.solidcrafts.watchgrid.chrono"
     },
     {
@@ -78,6 +80,7 @@
       "dateWindow": { "x": 347.0, "y": 216.0, "width": 44.0, "height": 34.0, "fontSize": 24.0, "textColorHex": "#000000" },
       "isFree": false,
       "priceDisplay": "$1.49",
+      "tags": [],
       "packageId": "io.solidcrafts.watchgrid.classic"
     },
     {
@@ -105,6 +108,7 @@
       "dateWindow": null,
       "isFree": false,
       "priceDisplay": "$1.49",
+      "tags": [],
       "packageId": "io.solidcrafts.watchgrid.royale"
     },
     {
@@ -133,6 +137,7 @@
       "hasCelestialMoonphase": true,
       "isFree": false,
       "priceDisplay": "$1.99",
+      "tags": [],
       "packageId": "io.solidcrafts.watchgrid.celestial"
     },
     {
@@ -161,6 +166,7 @@
       "hasCelestialMoonphase": false,
       "isFree": false,
       "priceDisplay": "$1.99",
+      "tags": ["NEW"],
       "packageId": "io.solidcrafts.watchgrid.lune"
     }
   ]
