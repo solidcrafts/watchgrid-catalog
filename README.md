@@ -68,7 +68,7 @@
 ### 2. Cosmic Chrono
 
 > **Professional Master Edition · $1.49**  
-> Legendary space horology reimagined in a clean luxury layout. Features a matte black tricompax dial with recessed circular snailing subdials, high-visibility luminous baton markers, 3D rhodium diamond-cut date aperture with Swiss chronometer numerals, signature Racing Red chronograph sweep hand, and an anodised aluminium Tachymètre bezel ring.
+> Legendary space horology reimagined in a clean luxury layout. Features a matte black tricompax dial with recessed circular snailing subdials, high-visibility luminous baton markers, 3D rhodium diamond-cut date aperture with Swiss chronometer numerals, crisp white luminous baton & chronometer sweep hands, and an anodised aluminium Tachymètre bezel ring.
 
 <table>
   <tr>
@@ -87,7 +87,7 @@
         <li><b>Crystal:</b> Domed scratch-resistant sapphire crystal</li>
         <li><b>Water Resistance:</b> 50 meters / 167 feet</li>
         <li><b>Movement:</b> Master Co-Axial Precision Chronometer</li>
-        <li><b>Hands &amp; Details:</b> 3D diamond-cut baton hands &amp; Racing Red sweep hand</li>
+        <li><b>Hands &amp; Details:</b> 3D diamond-cut baton hands &amp; Pure White sweep hand</li>
         <li><b>Date Complication:</b> Recessed opaline disc with 3D rhodium bevelled aperture &amp; Swiss numerals</li>
         <li><b>Luminescence:</b> Super-LumiNova high-legibility green glow</li>
       </ul>
