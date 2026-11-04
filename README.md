@@ -33,7 +33,7 @@
 ### 1. Heritage Diver 300 *(Included Free)*
 
 > **Automatic Professional · 300m / 1000ft**  
-> The quintessential luxury maritime diver timepiece. Features an obsidian Maxi dial, bold luminescent geometric hour markers, classic Mercedes hands, and a 3 o'clock cyclops date aperture. Includes the **Watchgrid Companion Phone Studio** for Android.
+> The quintessential luxury maritime diver timepiece upgraded with 3D diamond-cut applied Maxi indices, recessed Super-LumiNova channels, diamond-beveled date aperture with Swiss bitmap typography, sculpted 3D Mercedes hands, and 18k luxury metallurgy. Includes the **Watchgrid Companion Phone Studio** for Android.
 
 <table>
   <tr>

@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-11-03T10:33:00Z",
+  "version": 8,
+  "updatedAt": "2026-11-04T14:26:00Z",
   "watches": [
     {
       "id": 0,
@@ -8,7 +8,7 @@
       "brand": "WATCHGRID",
       "modelName": "Heritage Diver 300",
       "subtitle": "Automatic Professional · 300m / 1000ft",
-      "description": "The quintessential luxury diver watch face. Features the iconic Maxi black dial, bold luminescent geometric hour markers, Mercedes hands, and 3 o'clock date aperture.",
+      "description": "The quintessential luxury diver watch face upgraded to 3D haute horlogerie. Features the iconic Maxi black dial with applied 3D luminous indices, diamond-beveled date aperture, sculpted Mercedes hands, and 18k luxury finishes.",
       "caseDiameter": "41 mm",
       "bezel": "Unidirectional ceramic 60-min dive bezel",
       "crystal": "Scratch-resistant sapphire with date magnification",
@@ -19,11 +19,11 @@
       "hourHandUrl": "watches/submariner/hour.png",
       "minuteHandUrl": "watches/submariner/minute.png",
       "secondHandUrl": "watches/submariner/second.png",
-      "centerCapUrl": "watches/common/center_cap.png",
+      "centerCapUrl": "watches/submariner/center_cap.png",
       "hourGeometry": { "x": 209.0, "y": 58.0, "width": 48.0, "height": 220.0, "pivotX": 0.5, "pivotY": 0.7955 },
       "minuteGeometry": { "x": 217.0, "y": 8.0, "width": 32.0, "height": 260.0, "pivotX": 0.5, "pivotY": 0.8654 },
       "secondGeometry": { "x": 222.0, "y": -2.0, "width": 22.0, "height": 280.0, "pivotX": 0.5, "pivotY": 0.8393 },
-      "dateWindow": { "x": 378.0, "y": 211.0, "width": 53.0, "height": 43.0, "fontSize": 25.0, "textColorHex": "#000000" },
+      "dateWindow": { "x": 381.0, "y": 214.0, "width": 48.0, "height": 38.0, "fontSize": 26.0, "textColorHex": "#111318" },
       "isFree": true,
       "priceDisplay": "FREE",
       "tags": [],
