@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "updatedAt": "2026-11-05T12:45:00Z",
+  "version": 11,
+  "updatedAt": "2026-11-18T09:45:00Z",
   "watches": [
     {
       "id": 0,
@@ -77,7 +77,7 @@
       "hourGeometry": { "x": 210.0, "y": 58.0, "width": 46.0, "height": 220.0, "pivotX": 0.5, "pivotY": 0.7955 },
       "minuteGeometry": { "x": 215.0, "y": 8.0, "width": 36.0, "height": 260.0, "pivotX": 0.5, "pivotY": 0.8654 },
       "secondGeometry": { "x": 221.0, "y": -2.0, "width": 24.0, "height": 280.0, "pivotX": 0.5, "pivotY": 0.8393 },
-      "dateWindow": { "x": 344.0, "y": 214.0, "width": 48.0, "height": 37.0, "fontSize": 23.0, "textColorHex": "#000000" },
+      "dateWindow": { "x": 347.0, "y": 214.0, "width": 48.0, "height": 38.0, "fontSize": 26.0, "textColorHex": "#111318" },
       "isFree": false,
       "priceDisplay": "$1.49",
       "tags": [],
@@ -172,7 +172,7 @@
       "hasCelestialMoonphase": false,
       "isFree": false,
       "priceDisplay": "$1.99",
-      "tags": ["NEW"],
+      "tags": ["COMING SOON"],
       "dialThemes": [
         { "id": "obsidian", "name": "Obsidian", "colorHex": "#181B22" },
         { "id": "ivory", "name": "Ivory & Blue", "colorHex": "#E8E1D3", "accentColorHex": "#143E82" },
