@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "updatedAt": "2026-11-18T09:45:00Z",
+  "version": 12,
+  "updatedAt": "2026-11-19T12:52:00Z",
   "watches": [
     {
       "id": 0,
@@ -172,7 +172,7 @@
       "hasCelestialMoonphase": false,
       "isFree": false,
       "priceDisplay": "$1.99",
-      "tags": ["COMING SOON"],
+      "tags": ["NEW", "AVAILABLE"],
       "dialThemes": [
         { "id": "obsidian", "name": "Obsidian", "colorHex": "#181B22" },
         { "id": "ivory", "name": "Ivory & Blue", "colorHex": "#E8E1D3", "accentColorHex": "#143E82" },
